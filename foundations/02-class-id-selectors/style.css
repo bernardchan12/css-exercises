@@ -1,0 +1,20 @@
+/* styles.css */
+
+.odd-numbered {
+    background-color: #ffc0cb;
+    font-family: Verdana, "DeJaVu Sans", sans-serif; 
+}
+
+.font-size24{
+    font-size: 24px;
+}
+
+#second-element {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#forth-element {
+    background-color: hsl(120, 73%, 75%);
+    font-weight: bold;
+}
